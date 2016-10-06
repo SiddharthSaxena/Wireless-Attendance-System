@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import pyqrcode
 
 encode = pyqrcode.create('Wireless Attendance System', error='Q', version=4, mode='binary')
