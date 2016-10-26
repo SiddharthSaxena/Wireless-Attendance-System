@@ -1,5 +1,5 @@
 language: python
 python:
   - "3.4"
-install: "pip install -r pyqrcode pypng"
+install: "pip3 install pyqrcode pypng"
 script: QR Encoding.py
