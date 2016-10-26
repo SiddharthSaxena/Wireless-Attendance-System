@@ -1,2 +1,2 @@
 # Wireless-Attendance-System
-[![Build Status](https://travis-ci.org/SiddharthSaxena/Wireless-Attendance-System.svg?branch=master)](https://travis-ci.org/SiddharthSaxena/Wireless-Attendance-System)
+[![Build Status](https://travis-ci.org/SiddharthSaxena/Wireless-Attendance-System.svg?branch=master)](https://travis-ci.org/SiddharthSaxena/Wireless-Attendance-System)&nbsp;&nbsp;[![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg?maxAge=3600&&style=flat)](https://github.com/SiddharthSaxena/Wireless-Attendance-System/blob/master/LICENSE)
