@@ -2,4 +2,4 @@ language: python
 python:
   - "3.4"
 install: "pip3 install pyqrcode pypng"
-script: python3 QR\ Encoding.py
+script: python3 src/QR\ Encoding.py
