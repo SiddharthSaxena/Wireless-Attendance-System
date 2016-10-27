@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from PIL import Image
 import cv2
 import zbarlight
@@ -5,11 +6,20 @@ import zbarlight
 cap = cv2.VideoCapture(0)
 
 
-def qr(image):
+# noinspection PyPep8Naming
+def qrCheck(image):
     try:
         code = zbarlight.scan_codes('qrcode', image)
         return code
     except AssertionError:
+        return
+
+
+def output(string):
+    if string:
+        string = str(string)
+        string = string.split("'")
+        print(string[1])
         return
 
 while True:
@@ -21,8 +31,8 @@ while True:
 
     # Convert image frames into numpy array.
     image = Image.fromarray(gray)
-    decoded = qr(image)
-    print(decoded)
+    decoded = qrCheck(image)
+    output(decoded)
 
 # Display the resulting frame.
     cv2.imshow('frame',gray)
