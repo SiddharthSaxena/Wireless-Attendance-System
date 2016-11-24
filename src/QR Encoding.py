@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 import pyqrcode
 
 code = input('Enter the data to be converted into QR code: ')
