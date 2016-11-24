@@ -1,5 +1,5 @@
 # Wireless Attendance System
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?maxAge=3600&&style=flat)](https://github.com/SiddharthSaxena/Wireless-Attendance-System)&nbsp;&nbsp;[![Github Release](https://img.shields.io/badge/version-v1.0-red.svg?maxAge=3600&&style=flat)](https;//github.com/SiddharthSaxena/Wireless-Attendance-System/releases/tag/v1.0)&nbsp;&nbsp;[![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg?maxAge=3600&&style=flat)](https://github.com/SiddharthSaxena/Wireless-Attendance-System/blob/master/LICENSE)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?maxAge=3600&&style=flat)](https://github.com/SiddharthSaxena/Wireless-Attendance-System)&nbsp;&nbsp;[![Github Release](https://img.shields.io/badge/version-v1.0-red.svg?maxAge=3600&&style=flat)](https://github.com/SiddharthSaxena/Wireless-Attendance-System/releases/tag/v1.0)&nbsp;&nbsp;[![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg?maxAge=3600&&style=flat)](https://github.com/SiddharthSaxena/Wireless-Attendance-System/blob/master/LICENSE)
 
 Minor/Major Project.
 
