@@ -1,4 +1,4 @@
-# QR Encoder/Decoder
+# Wireless Attendance System
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?maxAge=3600&&style=flat)](https://github.com/SiddharthSaxena/Wireless-Attendance-System)&nbsp;&nbsp;[![Github Release](https://img.shields.io/badge/version-v1.0-red.svg?maxAge=3600&&style=flat)](https;//github.com/SiddharthSaxena/Wireless-Attendance-System/releases/tag/v1.0)&nbsp;&nbsp;[![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg?maxAge=3600&&style=flat)](https://github.com/SiddharthSaxena/Wireless-Attendance-System/blob/master/LICENSE)
 
 Minor/Major Project.
@@ -66,4 +66,4 @@ GNU General Public License v3 (GPLv3). See the [LICENSE](https://github.com/Sidd
 
 ### Preview
 
-<img src="http://www.siddharthsaxena.weebly.com/files/theme/QRED.png" id="preview">
+<img src="http://siddharthsaxena.weebly.com/files/theme/QRED.png" id="preview">
