@@ -16,6 +16,8 @@
 #
 from PIL import Image
 import cv2
+import os
+import sys
 import zbarlight
 
 cap = cv2.VideoCapture(0)
@@ -34,6 +36,11 @@ def output(string):
     if string:
         string = str(string)
         string = string.split("'")
+        print(sys.platform)
+        if not sys.platform == 'win32' or 'win64':
+            os.system('clear')
+        else:
+            os.system('cls')
         print(string[1])
         return
 
